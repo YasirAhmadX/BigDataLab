@@ -1,0 +1,13 @@
+<dependencies>
+    <dependency>
+        <groupId>org.apache.poi</groupId>
+        <artifactId>poi-ooxml</artifactId>
+        <version>5.2.3</version> <!-- You can replace with the latest version -->
+    </dependency>
+    <dependency>
+        <groupId>org.apache.poi</groupId>
+        <artifactId>poi-ooxml-schemas</artifactId>
+        <version>4.1.2</version> <!-- Make sure this is compatible -->
+    </dependency>
+</dependencies>
+
